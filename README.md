@@ -1,6 +1,6 @@
 # EKS Terraform Deployment with OIDC provider
 
-## How to Use this provider
+## How to Use
 
 ```
 git@github.com:sharonsahadevan/eks-terraform-oidc.git
